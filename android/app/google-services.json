@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "359216803787",
+    "project_id": "guardian-f231f",
+    "storage_bucket": "guardian-f231f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359216803787:android:c41d525c083ebba8bf904e",
+        "android_client_info": {
+          "package_name": "com.company.guradian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUsbtlWNv1eTeRTLy26D54tC6eFpKfGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359216803787:android:209ec2c9a7d020b0bf904e",
+        "android_client_info": {
+          "package_name": "com.example.guardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUsbtlWNv1eTeRTLy26D54tC6eFpKfGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359216803787:android:eb0187184309e2c8bf904e",
+        "android_client_info": {
+          "package_name": "com.example.guradian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUUsbtlWNv1eTeRTLy26D54tC6eFpKfGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

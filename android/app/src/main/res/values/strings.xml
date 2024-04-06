@@ -1,0 +1,5 @@
+<resources>
+    <!-- Other string resources -->
+
+    <string name="accessibility_service_description">This service helps in emergency situations by allowing the app to automatically bring itself to the foreground, ensuring you can quickly send alerts without needing to navigate through your phone.</string>
+</resources>
